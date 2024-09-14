@@ -4,8 +4,8 @@ LOCAL_PATH := device/samsung/j105f
 #TODO
 #$(call inherit-product, device/samsung/j1minilte/device_j1minilte.mk)
 
-PRODUCT_NAME := lineage_j1minilte
-PRODUCT_DEVICE := j1minilte
+PRODUCT_NAME := lineage_j1minivelte
+PRODUCT_DEVICE := j1minivelte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := J105F
 PRODUCT_MANUFACTURER := samsung
