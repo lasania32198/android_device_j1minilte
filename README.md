@@ -1,3 +1,9 @@
-Device Tree for Samsung Galaxy J1 Mini Prime
+#CyanogenMod 12.1 Device Tree for Samsung Galaxy J1 (J100H) by CTXz
 
-This Build is in development
+Before you start please apply patches by running :
+
+> sh patch/apply.sh
+
+
+
+
