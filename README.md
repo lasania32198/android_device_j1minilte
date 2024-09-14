@@ -1,1 +1,3 @@
-Device Tree For Samsung Galaxy J1 Mini Prime 
+Device Tree for Samsung Galaxy J1 Mini Prime
+
+This Build is in development
