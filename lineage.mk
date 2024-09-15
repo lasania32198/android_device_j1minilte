@@ -5,7 +5,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-$(call inherit-product, device/samsung/gtexslte/full_j1minivolte.mk)
+$(call inherit-product, device/samsung/j1minivolte/full_j1minivolte.mk)
 
 # Use specific resolution for bootanimation
 TARGET_BOOTANIMATION_SIZE := 720x480
