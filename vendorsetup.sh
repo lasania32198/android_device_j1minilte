@@ -1,3 +1,1 @@
-add_lunch_combo lineage_j1minivelte-user
-add_lunch_combo lineage_j1minivelte-userdebug
-add_lunch_combo lineage_j1minivelte-eng
+add_lunch_combo j1minivelte-userdebug

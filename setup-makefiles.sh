@@ -15,7 +15,7 @@
 # limitations under the License.
 
 VENDOR=samsung
-DEVICE=j1minivolte
+DEVICE=j1minivelte
 OUTDIR=vendor/$VENDOR
 DEVICEMAKEFILE=../../../$OUTDIR/$DEVICE-vendor-blobs.mk
 

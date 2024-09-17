@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_device_samsung_j1minivelte",
+    "target_path": "device/samsung/j1minivelte"
+  },
+  {
+    "repository": "android_kernel_samsung_j1minivelte",
+    "target_path": "kernel/samsung/j1minivelte"
+  }
+]
