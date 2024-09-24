@@ -1,5 +1,17 @@
-Building A Device Tree For A Samsung J1 Mini Prime {codename: j1minivelte}
+Device Tree for Samsung Galaxy J1 Mini Prime (j1minivelte)
+===========================================
 
-THIS IS STILL IN DEVELOPMENT!
-
-I have not tested this tree, because i have less memory in my laptop to build android, and i don't have kernel files. i have vendor blobs, and just new to this development thing.
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Quad-core 1.5 GHz
+Chipset | Spreadtrum SC9830
+GPU     | Mali-400MP2
+Memory  | 1 GB RAM
+Shipped Android Version | 6.0
+Storage | 8 GB
+MicroSD | Up to 128 GB
+Battery | Removable Li-Ion 1500 mAh battery
+Display | 480 x 800 pixels (~233 ppi pixel density)
+Camera  | Primary: 5 MP; Secondary: VGA
+ 
+![Samsung Galaxy Tab J1 Mini Prime](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-j1-mini-prime-2016-1.jpg)
