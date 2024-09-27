@@ -1,3 +1,5 @@
+Not tested yet, finally compiling!
+
 Device Tree for Samsung Galaxy J1 Mini Prime (j1minivelte)
 ===========================================
 
